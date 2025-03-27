@@ -1,6 +1,6 @@
 # Lista de códigos fornecidos
 codigos = [
-seus codigos separadaos por virgula exemplo: 1,2,3,4,5,6
+#seus codigos separadaos por virgula exemplo: 1,2,3,4,5,6
 ]
 
 # Caminho do arquivo onde os inserts serão salvos
